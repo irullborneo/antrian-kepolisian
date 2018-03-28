@@ -1,0 +1,1 @@
+<img src='<?php echo site_url($logo)?>' class="img img-responsive" id='logo_img' />
